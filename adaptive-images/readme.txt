@@ -4,8 +4,8 @@ Contributors: nevma, takisbig
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WCES7V9D45HDS
 Tags: adaptive images, responsive images, mobile images, resize images, optimize images, adaptive, responsive, mobile, resize, optimize, images
 Requires at least: 5.0
-Tested up to: 6.0
-Stable tag: 0.6.72
+Tested up to: 6.6.2
+Stable tag: 0.6.73
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -63,7 +63,7 @@ Since version 0.5.0 and upwards it is configurable whether the plugin should tak
 
 = How to test = 
 
-The esiest way to test is with your browser&apos;s device emulation mode (Responsive Design Mode) in it&apos; Developer Tools. You can check this out this video https://www.youtube.com/watch?v=hCAC1XUUOvw/ as an example.
+The esiest way to test is with your browser&apos;s device emulation mode (Responsive Design Mode) in it&apos; Developer Tools. You can check this out in this video https://www.youtube.com/watch?v=hCAC1XUUOvw/ as an example.
 
  1. Test with a tool like Webpagetest http://www.webpagetest.org/. Make sure you set the "Emulate Mobile Browser" setting in the "Advanced Settings" > "Chrome" tab. 
  2. Test with an actual mobile device, a smartphone or tablet. Watch your website load in a snap.
@@ -185,6 +185,10 @@ Apologies for the inconvenience! We are still in early versions. What is importa
 
 
 == Changelog ==
+
+= 0.6.73 =
+
+ - Ensuring compatibility with WordPress core version 6.6.2. 
 
 = 0.6.72 =
 
